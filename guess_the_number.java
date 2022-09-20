@@ -45,6 +45,7 @@ public class guess_the_number {
                     break;
                 }
                 rounds=1;
+                score=0;
             }
         }
     }
